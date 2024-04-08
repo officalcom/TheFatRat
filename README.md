@@ -110,3 +110,4 @@ All notable changes to this project will be documented in this [file](https://gi
 TheFatRat is made with 🖤 by Edo Maland & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
 
 
+off Thefatrat
